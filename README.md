@@ -1,4 +1,4 @@
-# project-connect
+# Project-Connect
 Solving world's connectivity problems with algorithms and mobiles
 =====
 
@@ -38,8 +38,8 @@ It has 4 main parts
 
 It uses part of the phone to carry encrypted messages for the recipient. 
 These messages are completely harmless as 
-** they cannot be opened by anyone other the intended recipient.
-** These messages can be overwritten at anytime 
+* they cannot be opened by anyone other the intended recipient.
+* these messages can be overwritten at anytime 
 
 Why is it not opensource yet?
 ====
@@ -53,7 +53,8 @@ We still have a way to moderate them through NLP. Do not distribute messages tha
 
 Let them hire the best minds to do this for them, but I would never be the one that would help them.
 
-
+What's in here for the connected ones?
+===========
 As you can imagine. This not only impacts the unconnected, but the connected ones too. Making this algorightm more robust and intelligent (v5 or V6) we can actually save lot of data cost. And I can see the pretty soon these bunch of algorithms can help us communicate across the world with minimal/no data usage at near internet speed. But even V5 there are tons of applications which can make our lives easier. I am sure you already have guessed a few and thinking of building businesses around it. You can thank me later.
 
 
