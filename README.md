@@ -60,10 +60,12 @@ As you can imagine. This not only impacts the unconnected, but the connected one
 
 What's the app that I keep mentioning?
 ==============
-Its called Voola and is available as beta for Android at this point. Its a Live streaming, Recorded Video streaming and Video chat app. You should see some of this action of sending Live stream, recorded video streams or Video messages without internet in V1 public release of the app. 
+Its called Voola and is available as public beta (minus the "Without-Internet" bits) for Android (4.0 and above) at this point. Its a Live streaming, Recorded Video streaming and Video chat app. You should see some of this action of sending Live stream, recorded video streams or Video messages without internet, in V1 public release of the app this February.
 
 Want to help?
 =======
 If you have a passion to help connect the world and believe this is one way of doing it, lets join hands. Reach out to me via a pull request. Or email my associate neha.ras4u@gmail.com
 
-If you simply want to try out the private beta of Voola with the "Without Internet" part, reach out to neha.ras4u@gmail.com. She would be able to help you.
+If you got an Iphone, Macbook with XCode you should still create a pull-request
+
+If you simply want to try out the private beta of Voola with the "Without Internet" bits, reach out to neha.ras4u@gmail.com. She would be able to help you.
