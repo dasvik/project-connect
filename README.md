@@ -6,12 +6,10 @@ As we speak, more and more people are buying smartphones. Lot of these people re
 
 My take is that its lot easier than we think and the solution is in our minds and our pockets. With clever use of technology and these mobile phones (pretty much every phone since 2012), we can connect the unconnected. Infact I have a proof of concept that allows us to communicate with users who are well over 150m distance apart.
 
-How did I do it?
+The Eureka moment
 ====
-While I may not delve all the details for reasons cited below, let me outline what I can.
-
 Stage 1:
-At this stage I hadn't even thought about this project. It was just a brainstorming session between founders on solving key issue for India. Ability for our app to work without internet.
+It was just a brainstorming session between we founders on solving key issue for India. Ability for our app to work without internet.
 
 It was pretty much clear that various technology were there, with its own set of pros & cons. Though they needed bit of hack to work seamlessly for our needs. We chose the most viable technology for use in our app. The POC looked great. Infact for lot of our use cases, it was perfect solution.
 
@@ -24,12 +22,11 @@ Yes, human behavior, social nature of human and algorithms can infact solve it. 
 
 I even pissed my co-founder because instead of focussing on our app, I started working on some fancy idea which may not matter at all.
 
-But I got an early crude form of the algorightm that breaks the limit/barrier of 100-150mts of communication distance that these mobiles present. Lets call it V1. Very soon you would see V1 in action in our app.
-
-Right now I am working on V2 of this algo. I believe V5 or V6 would be a marvel that I would be proud of.
+But I got an early crude form of the algorightm that breaks the limit/barrier of 100-150mts of communication distance that these mobiles present. Lets call it V1. 
 
 What is in this algo?
 ====
+While I may not delve all the details for reasons cited below, let me outline what I can. 
 It has 4 main parts
 * Encrypt messages (messages can be of any format)
 * Recursively choose the ideal postman nearest to sender to carry the message
@@ -41,7 +38,11 @@ These messages are completely harmless as
 * they cannot be opened by anyone other the intended recipient.
 * these messages can be overwritten at anytime 
 
-Why is it not opensource yet?
+What is the current status?
+=========
+Currently I am working on a V2. Very soon you would see V1 in action in our app. I believe V5 or V6 would be a marvel that I would personally be proud of.
+
+Opensource yet?
 ====
 Everyone who knows me, would vouch for the fact that I would opensource every damn thing in the world. So why not this?
 
@@ -56,7 +57,6 @@ But once we ensure that it's pretty safe even in wrong hands and it is pretty st
 What's in here for the connected ones?
 ===========
 As you can imagine. This not only impacts the unconnected, but the connected ones too. Making this algorightm more robust and intelligent (v5 or V6) we can actually save lot of data cost. And I can see that pretty soon these bunch of algorithms can help us communicate across the world with minimal/no data usage at near internet speed. But even before V5 there are tons of applications which can make our lives easier. I am sure you already have guessed a few and thinking of building businesses around it. You can thank me later.
-
 
 
 Want to help?
