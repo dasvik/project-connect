@@ -56,6 +56,4 @@ What's in here for the connected ones?
 As you can imagine. This not only impacts the unconnected, but the connected ones too. Making this algorightm more robust and intelligent (v5 or V6) we can actually save lot of data cost. And I can see that pretty soon these bunch of algorithms can help us communicate across the world with minimal/no data usage at near internet speed. But even before V5 there are tons of applications which can make our lives easier. I am sure you already have guessed a few and thinking of building businesses around it. You can thank me later.
 
 
-To my Co-Founder:
-
-I know eventually you will find this post. Hope you understand why I made it public.
+If you have a passion to help connect the world and believe this is one way of doing it, lets join hands. Reach out to me via a pull request. Or email my associate neha.ras4u@gmail.com
