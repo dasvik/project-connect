@@ -26,7 +26,7 @@ I even pissed my co-founder because instead of focussing on our app, I started w
 
 But I got an early crude form of the algorightm that breaks the limit/barrier of 100-150mts of communication distance that these mobiles present. Lets call it V1. Very soon you would see V1 in action in our app.
 
-Right now I am working on V2 of this algorightm. I believe V5 or V6 would be a marvel that I would be proud of.
+Right now I am working on V2 of this algo. I believe V5 or V6 would be a marvel that I would be proud of.
 
 What is in this algo?
 ====
