@@ -58,7 +58,12 @@ What's in here for the connected ones?
 ===========
 As you can imagine. This not only impacts the unconnected, but the connected ones too. Making this algorightm more robust and intelligent (v5 or V6) we can actually save lot of data cost. And I can see that pretty soon these bunch of algorithms can help us communicate across the world with minimal/no data usage at near internet speed. But even before V5 there are tons of applications which can make our lives easier. I am sure you already have guessed a few and thinking of building businesses around it. You can thank me later.
 
+What's the app that I keep mentioning?
+==============
+Its called Voola and is available as beta for Android at this point. Its a Live streaming, Recorded Video streaming and Video chat app. You should see some of this action of sending Live stream, recorded video streams or Video messages without internet Vi in V1 public release of the app. 
 
 Want to help?
 =======
 If you have a passion to help connect the world and believe this is one way of doing it, lets join hands. Reach out to me via a pull request. Or email my associate neha.ras4u@gmail.com
+
+If you simply want to try out the private beta of Voola with the "Without Internet" part, reach out to neha.ras4u@gmail.com. She would be able to help you.
