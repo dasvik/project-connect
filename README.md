@@ -15,10 +15,10 @@ At this stage I hadn't even thought about this project. It was just a brainstorm
 
 It was pretty much clear that various technology were there, with its own set of pros & cons. Though they needed bit of hack to work seamlessly for our needs. We chose the most viable technology for use in our app. The POC looked great. Infact for lot of our use cases, it was perfect solution.
 
-But for me, the most nagging problem was the limitation of distance that these technologies served and I couldn't let this go from my mind.
+But for me, the most nagging problem was the limitation of distance that these technologies served and I couldn't let this go off my mind.
 
 Stage 2:
-This is where the main idea came into picture. Was there a way to remove this limitation of distance or atleast make it appear as there is no limitation?
+This is where the main idea came into being. Is there a way to remove this limitation of distance or atleast make it appear as there is no limitation?
 
 Yes, human behavior, social nature of human and algorithms can infact solve it. I did a quick re/search and found out no one has attacked this problem yet, from this angle. So I thought it was worth a try.
 
@@ -26,9 +26,9 @@ I even pissed my co-founder because instead of focussing on our app, I started w
 
 But I got an early crude form of the algorightm that breaks the limit/barrier of 100-150mts of communication distance that these mobiles present. Lets call it V1. Very soon you would see V1 in action in our app.
 
-Right now we are working on V2 of this algorightm. I believe V5 or V6 would be a marvel that I would be proud of.
+Right now I am working on V2 of this algorightm. I believe V5 or V6 would be a marvel that I would be proud of.
 
-What is in this algorightm?
+What is in this algo?
 ====
 It has 4 main parts
 * Encrypt messages (messages can be of any format)
@@ -50,6 +50,8 @@ In a Centralized platform like Facebook, Twitter etc. we can monitor, curb and m
 Our algorightms are designed for Point-to-Point and One-Many communication without internet over large distances. Most of the messages for most of the time might be travelling without going through a central server. Infact the messages may not reach a central server at all. This makes moderation impossible. My biggest concern is that terrorists can use it to freely spread their propaganda without moderation.
 
 We can still have a way to moderate them through NLP. Do not distribute messages that NLP powered algos think are anti-human. But even that would be rendered useless if this is OpenSource. So the last thing I want to do is simply hand over the blue print of an algorithm that can help them succeed. Let them hire the best minds to do this for them, but I would never be the one that would help them.
+
+But once we ensure that it's pretty safe even in wrong hands and it is pretty stable, I will not wait for a second to make it open-source.
 
 What's in here for the connected ones?
 ===========
