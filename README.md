@@ -1,5 +1,6 @@
 # project-connect
 Solving world's connectivity problems with algorithms and mobiles
+=====
 
 As we speak, more and more people are buying smartphones. Lot of these people reside in areas where there is no internet connectivity. What would it take to connect the unconnected of this world?
 
@@ -30,10 +31,10 @@ Right now we are wprlomg on V2 of this algorightm. I believe V5 or V6 would be a
 What is in this algorightm?
 ====
 It has 4 main parts
-** Encrypt messages (messages can be of any format)
-** Recursively choose the ideal postman nearest to sender to carry the message
-** Recursively choose ideal postman to nearest to recipient to deliver the message
-** Between 2 & 3, choose the best path/method to send
+* Encrypt messages (messages can be of any format)
+* Recursively choose the ideal postman nearest to sender to carry the message
+* Recursively choose ideal postman to nearest to recipient to deliver the message
+* Between 2 & 3, choose the best path/method to send
 
 It uses part of the phone to carry encrypted messages for the recipient. 
 These messages are completely harmless as 
