@@ -13,7 +13,7 @@ While I may not delve all the details for reasons cited below, let me outline wh
 Stage 1:
 At this stage I hadn't even thought about this project. It was just a brainstorming session between founders on solving key issue for India. Ability for our app to work without internet.
 
-It was pretty much clear that various technology were there, with its own set of cons. Though they needed bit of hack to work seamlessly for our needs. We chose the most viable technology for use in our app. The POC looked great. Infact for lot of our use cases, it was perfect solution.
+It was pretty much clear that various technology were there, with its own set of pros & cons. Though they needed bit of hack to work seamlessly for our needs. We chose the most viable technology for use in our app. The POC looked great. Infact for lot of our use cases, it was perfect solution.
 
 But for me, the most nagging problem was the limitation of distance that these technologies served and I couldn't let this go from my mind.
 
