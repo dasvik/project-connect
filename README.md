@@ -6,6 +6,7 @@ As we speak, more and more people are buying smartphones. Lot of these people re
 My take is that its lot easier than we think and the solution is in our minds and our pockets. With clever use of technology and these mobile phones (pretty much every phone since 2012), we can connect the unconnected. Infact I have a proof of concept that allows us to communicate with users who are well over 150m distance apart.
 
 How did I do it?
+====
 While I may not delve all the details for reasons cited below, let me outline what I can.
 
 Step 1:
@@ -27,18 +28,20 @@ But I got an early crude form of the algorightm that breaks the limit/barrier of
 Right now we are wprlomg on V2 of this algorightm. I believe V5 or V6 would be a marvel that I would be proud of.
 
 What is in this algorightm?
+====
 It has 4 main parts
-1) Encrypt messages (messages can be of any format)
-2) Recursively choose the ideal postman nearest to sender to carry the message
-3) Recursively choose ideal postman to nearest to recipient to deliver the message
-4) Between 2 & 3, choose the best path/method to send
+** Encrypt messages (messages can be of any format)
+** Recursively choose the ideal postman nearest to sender to carry the message
+** Recursively choose ideal postman to nearest to recipient to deliver the message
+** Between 2 & 3, choose the best path/method to send
 
 It uses part of the phone to carry encrypted messages for the recipient. 
 These messages are completely harmless as 
-a)they cannot be opened by anyone other the intended recipient.
-b)These messages can be overwritten at anytime 
+** they cannot be opened by anyone other the intended recipient.
+** These messages can be overwritten at anytime 
 
 Why is it not opensource yet?
+====
 Everyone who knows me, would vouch for the fact that I would opensource every damn thing in the world. So why not this?
 
 In a Centralized platform like Facebook, Twitter, we can monitor, curb and moderate expression. While this might not sound great, but it has a very positive impact as well, as long as these curbing, moderation is done on terrorist activities. 
@@ -54,4 +57,5 @@ As you can imagine. This not only impacts the unconnected, but the connected one
 
 
 About me:
+====
 My abilities and skills never matched my Sky-high ambitions. So I had lost hope of making anything using technology, that can have a good impact on people's lives. But I could not stop myself from being an entrepreneur. While working on my latest startup, I came across this idea and then I could suddenly see how its application can really impact lives in a positive manner.
