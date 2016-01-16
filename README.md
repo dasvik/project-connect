@@ -11,7 +11,7 @@ The Eureka moment
 Stage 1:
 It was just a brainstorming session between we founders on solving key issue for India. Ability for our app to work without internet.
 
-It was pretty much clear that various technology were there, with its own set of pros & cons. Though they needed bit of hack to work seamlessly for our needs. We chose the most viable technology for use in our app. The POC looked great. Infact for lot of our use cases, it was perfect solution.
+It was pretty much clear that various technology pre-existed, with its own set of pros & cons. Though they needed bit of hack to work seamlessly for our needs. We chose the most viable technology for use in our app. The POC looked great. Infact for lot of our use cases, it was perfect solution.
 
 But for me, the most nagging problem was the limitation of distance that these technologies served and I couldn't let this go off my mind.
 
