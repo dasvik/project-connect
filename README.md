@@ -22,9 +22,9 @@ Yes, human behavior, social nature of human and algorithms can infact solve it. 
 
 I even pissed my co-founder because instead of focussing on our app, I started working on some fancy idea which may not matter at all.
 
-But I got an early crude form of the algorightm that breaks the limit/barrier of 100-150mts of communication distance that these mobiles present. Lets call it V1. 
+But I got an early crude form of the algorithm that breaks the limit/barrier of 100-150mts of communication distance that these mobiles present. Lets call it V1. 
 
-What is in this algo?
+What is in this algorithm?
 ====
 While I may not delve all the details for reasons cited below, let me outline what I can. 
 It has 4 main parts
@@ -46,15 +46,15 @@ Why no Opensource yet?
 ====
 In a Centralized platform like Facebook, Twitter etc. we can monitor, curb and moderate expression. While this might not sound great it has a very positive impact as well, as long as these moderations are done on terrorist activities. 
 
-Our algorightms are designed for Point-to-Point and One-Many communication without internet over large distances. Most of the messages for most of the time might be travelling without going through a central server. Infact the messages may not reach a central server at all. This makes moderation impossible. My biggest concern is that terrorists can use it to freely spread their propaganda without moderation.
+Our algorithms are designed for Point-to-Point and One-Many communication without internet over large distances. Most of the messages for most of the time might be travelling without going through a central server. Infact the messages may not reach a central server at all. This makes moderation impossible. My biggest concern is that terrorists can use it to freely spread their propaganda without moderation.
 
-We can still have a way to moderate them through NLP. Do not distribute messages that NLP powered algos think are anti-human. But even that would be rendered useless if this is OpenSource. So the last thing I want to do is simply hand over the blue print of an algorithm that can help them succeed. Let them hire the best minds to do this for them, but I would never be the one that would help them.
+We can still have a way to moderate them through NLP. Do not distribute messages that NLP powered algorithms think are anti-human. But even that would be rendered useless if this is OpenSource. So the last thing I want to do is simply hand over the blue print of an algorithm that can help them succeed. Let them hire the best minds to do this for them, but I would never be the one that would help them.
 
 But once we ensure that it's pretty safe even in wrong hands and it is pretty stable, I will not wait for a second to make it open-source.
 
 What's in here for the connected ones?
 ===========
-As you can imagine. This not only impacts the unconnected, but the connected ones too. Making this algorightm more robust and intelligent (v5 or V6) we can actually save lot of data cost. And I can see that pretty soon these bunch of algorithms can help us communicate across the world with minimal/no data usage at near internet speed. But even before V5 there are tons of applications which can make our lives easier. I am sure you already have guessed a few and thinking of building businesses around it. You can thank me later.
+As you can imagine. This not only impacts the unconnected, but the connected ones too. Making this algorithm more robust and intelligent (v5 or V6) we can actually save lot of data cost. And I can see that pretty soon these bunch of algorithms can help us communicate across the world with minimal/no data usage at near internet speed. But even before V5 there are tons of applications which can make our lives easier. I am sure you already have guessed a few and thinking of building businesses around it. You can thank me later.
 
 What's the app that I keep mentioning?
 ==============
