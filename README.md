@@ -42,10 +42,8 @@ What is the current status?
 =========
 Currently I am working on a V2. Very soon you would see V1 in action in our app. I believe V5 or V6 would be a marvel that I would personally be proud of.
 
-Opensource yet?
+Why no Opensource yet?
 ====
-Everyone who knows me, would vouch for the fact that I would opensource every damn thing in the world. So why not this?
-
 In a Centralized platform like Facebook, Twitter etc. we can monitor, curb and moderate expression. While this might not sound great it has a very positive impact as well, as long as these moderations are done on terrorist activities. 
 
 Our algorightms are designed for Point-to-Point and One-Many communication without internet over large distances. Most of the messages for most of the time might be travelling without going through a central server. Infact the messages may not reach a central server at all. This makes moderation impossible. My biggest concern is that terrorists can use it to freely spread their propaganda without moderation.
